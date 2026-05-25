@@ -5,6 +5,9 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rocket300.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ott-news.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/religion.m3u8", 
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8",
     "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u", 
@@ -13,7 +16,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+EPG_URL = "https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
 
 # Output file
 OUTPUT_FILE = "combined_playlist.m3u"
