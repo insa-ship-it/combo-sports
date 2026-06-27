@@ -12,6 +12,7 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pittsburgh-pa-hdhr1.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pittsburgh-pa-hdhr2.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/portland-or-hdhr.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rhinelander-wi-hdhr.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/scranton-pa-hdhr.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
