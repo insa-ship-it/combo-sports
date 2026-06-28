@@ -5,16 +5,9 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/alexandria-la-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/bethlehem-pa-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/chicago-il-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/miami-wpb-fl-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pittsburgh-pa-hdhr1.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pittsburgh-pa-hdhr2.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/portland-or-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rhinelander-wi-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/scranton-pa-hdhr.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/wilmington-nc.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/dancetv.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/iheart.m3u8", 
+    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/music1.m3u8",
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
