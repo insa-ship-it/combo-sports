@@ -1,3 +1,9 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-14T01:01:10.363866 UTC
+# Generated on 2026-08-14T01:16:28.555579 UTC
+
+#PLAYLIST:x liveeventsfilter
+#EXTGRP:x liveeventsfilter
+
+
+==================================================
 
