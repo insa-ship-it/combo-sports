@@ -5,7 +5,7 @@ import re
 # ===== CONFIGURATION =====
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
-    "",
+    "https://github.com/insa-ship-it/sports/raw/refs/heads/main/liveeventsfilter.m3u8",
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
